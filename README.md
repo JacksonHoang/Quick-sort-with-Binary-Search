@@ -114,7 +114,7 @@ public class AceTester {
                      quicksort(i, high);
      }
      
-     //Swapping Method (IF i
+     //Swapping Method
      public static void swap(int i, int j) {
              int temp = numbers[i];
              numbers[i] = numbers[j];
